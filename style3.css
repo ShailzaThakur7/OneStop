@@ -1,0 +1,85 @@
+html{
+    font-size: 62.5%;
+}
+@media(max-width:998px) {
+    html{
+        font-size:55%;
+    }   
+}
+@media(max-width:768px){
+    html{
+        font-size: 45%;
+    }
+}
+
+.navbarclass{
+    background-color: #142850;
+    padding-left: 10.0rem;
+}
+.navlogo{
+    padding: 0%;
+    border-radius:100% ;
+    height: 50px;
+    width: 50px;
+}
+.navlogo1{
+    padding: 0%;
+    border-radius:100% ;
+}
+.nav-link{
+    color: white ;
+    font-size:2.5rem;
+}
+.logintext{
+    margin-left: 25rem;
+}
+.color-me{
+    color: white !important;
+}
+.container-fluid{
+    padding: 3% 10%;
+}
+.text{
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    font-size:3.5rem;
+}
+.abc{
+    padding-left: 2.5rem;
+    padding-right:2.5rem;
+}
+.imgdiv{
+    padding:0%;
+}
+.texta{
+    color: white;
+    font-size: 4.5rem;
+    padding-top: 2%;
+    text-align: center;
+}
+.c1{
+    background-color:yellow;
+    height: 600px;
+    width:400px;
+    padding-left: 50%;
+}
+.pg{
+    background-color: #142850;
+    height: 100%;
+    width: 100%;
+}
+.f1{
+    margin-left: 12%;
+}
+.next{
+    padding-left: 60%;
+    padding-top: 5%;
+    color: #ECB53C;
+    font-size: 5rem;
+}
+/* .whilebox{
+    background-color:yellow;
+    height: 600px;
+    width:400px;
+    padding-left: 20%;
+} */

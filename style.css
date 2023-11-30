@@ -1,0 +1,310 @@
+html{
+    font-size: 62.5%;
+}
+@media(max-width:998px) {
+    html{
+        font-size:55%;
+    }   
+}
+@media(max-width:768px){
+    html{
+        font-size: 45%;
+    }
+}
+
+.navbarclass{
+    background-color: #142850;
+    padding-left: 10.0rem;
+}
+.navlogo{
+    padding: 0%;
+    border-radius:100% ;
+    height: 50px;
+    width: 50px;
+}
+.navlogo1{
+    padding: 0%;
+    border-radius:100% ;
+}
+.container-fluid{
+    padding: 3% 10%;
+}
+.text{
+    padding-left: 1.2rem;
+    padding-right: 1.3rem;
+    font-size:3.5rem;
+}
+.imgdiv{
+    padding:0%;
+}
+.abc{
+    padding-left: 2.5rem;
+    padding-right:2.5rem;
+}
+.nav-link{
+    color: white ;
+    font-size:2.5rem;
+}
+.logintext{
+    margin-left: 25rem;
+}
+.color-me{
+    color: white !important;
+}
+/*First page*/
+.bgimg{
+    /* position: absolute; */
+    height:100%;
+    width: 100%;
+}
+.divtext{
+    padding-top: 10%;
+    padding-left: 0%;
+}
+.appname{
+    color: red;
+    font-size: 5.5rem;
+}
+.text1{
+    font-size: 1.5rem;
+    
+}
+.h1text{
+    font-size: 4.5rem;
+}
+
+/*Second Page*/
+.secondpg{
+    /* position: static; */
+    background-color: #142850;
+    height: 100%;
+    width:100%
+}
+.bgimg2{
+position: absolute;
+width: 37.5rem;
+height: 39.1rem;
+left: -11.4rem;
+top: 101.7rem;
+}
+.bgimg3{
+position: absolute;
+width: 37.5 rem;
+height: 39.1rem;
+left: 117.6rem;
+top: 86.6rem;
+}
+.heading1{
+    padding-top: 2%;
+    padding-left:35%;
+    width:70%;
+}
+.sp{
+    height:750px;
+    width:100%;
+}
+.bgimg4{
+    position:relative;
+    width: 15%;
+    height: 25%;
+}
+.text2{
+    color: white;
+    padding-left: 18%;
+    padding-right: 18%;
+    text-align: center;
+}
+.subtext1{
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+  
+}
+.subtext2{
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+    width:45%
+}
+.subsubtext{
+    color: white;
+}
+.test{
+    background-color: #142850;
+}
+.test2{
+    text-align: center;
+    color:#ECB53C;
+    font-size: 2rem;
+}
+.test3{
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}
+.boxtest{
+    padding-top: 2%;
+    padding-left: 15%;
+    padding-bottom: 10%;
+}
+.edulink{
+    color: #ECB53C;
+    font-size: 3.5rem;
+    padding-top: 2%;
+    padding-left: 30%;
+}
+/*****Third Page*****/
+.thirdpage{
+    background-color: #F2EFEF;
+}
+.test3q{
+    background-color: #F2EFEF;
+}
+.test3a{
+    text-align: center;
+    color:black;
+    font-size: 3rem;
+}
+.test3b{
+    text-align: center;
+    color: black;
+    font-size: 1.5rem;
+}
+.textp3{
+    text-align: center;
+    color: black;
+    font-size: 2rem;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.finlink{
+    color: #142850;
+    font-size: 3.5rem;
+    /* padding-top: 5%; */
+    padding-left: 31%;
+}
+.heading2{
+    padding-top: 2%;
+    padding-left:40%;
+    width:70%;
+}
+.i1{
+    position: absolute;
+width: 375px;
+height: 391px;
+left: 1359px;
+top: 1692px;
+}
+.i2{
+    position: absolute;
+width: 375px;
+height: 391px;
+left: 73px;
+top: 1496px;
+}
+.i3{
+    position: absolute;
+width: 375px;
+height: 391px;
+left: -217px;
+top: 2012px;
+}
+/****Fourth Page*****/
+.fourthpage{
+    /* position: static; */
+    background-color: #142850;
+    height: 100%;
+    width:100%
+}
+.bgimg2{
+position: absolute;
+width: 37.5rem;
+height: 39.1rem;
+left: -11.4rem;
+top: 101.7rem;
+}
+.bgimg3{
+position: absolute;
+width: 37.5 rem;
+height: 39.1rem;
+left: 117.6rem;
+top: 86.6rem;
+}
+.heading1{
+    padding-top: 2%;
+    padding-left:35%;
+    width:70%;
+}
+.test4q{
+    background-color: #142850;
+}
+.test4a{
+    text-align: center;
+    color:white;
+    font-size: 3rem;
+}
+.test4b{
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}
+.textp4{
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.boxtest4{
+    padding-top: 2%;
+    padding-left: 7%;
+    padding-bottom: 10%;
+}
+.travlink{
+    color: #ECB53C;
+    font-size: 3.5rem;
+    padding-top: 2%;
+    padding-left: 38%;
+}
+/****fifth page*****/
+.fifthpage{
+    background-color: #F2EFEF;
+}
+.heading5{
+    padding-top: 2%;
+    padding-left:40%;
+    width:70%;
+}
+.boxtest4{
+    padding-top: 2%;
+    padding-bottom: 10%;
+}
+.entlink{
+    color: #142850;
+    font-size: 3.5rem;
+    padding-left: 42%;
+    padding-top: 10%;
+}
+@media(max-width:1600px) {
+    
+}
+@media(max-width:768px){
+    .abc1,.abc2,.abc3,.abc4,.abc5,.abc6{
+        padding-left: 20%;
+        margin-bottom: 2.3%;
+    }
+    .abc5,.abc6{
+        padding-left: 28%;
+    }
+    .abc8{
+        padding-left: 38%;
+        margin-bottom: 2.3%;
+    }
+    .edulin,.finlink,.travlink{
+        padding-left: 26%;
+    }
+    .travlink{
+        padding-left:35% ;
+    }
+}
+

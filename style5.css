@@ -1,0 +1,83 @@
+.edupg{
+    background-color: #142850;
+    align-items: center;
+}
+body{
+    text-align: center;
+}
+html{
+    font-size: 62.5%;
+}
+@media(max-width:998px) {
+    html{
+        font-size:55%;
+    }   
+}
+@media(max-width:768px){
+    html{
+        font-size: 45%;
+    }
+}
+
+.navbarclass{
+    background-color: #142850;
+    padding-left: 10.0rem;
+}
+.navlogo{
+    padding: 0%;
+    border-radius:100% ;
+    height: 50px;
+    width: 50px;
+}
+.navlogo1{
+    padding: 0%;
+    border-radius:100% ;
+}
+.nav-link{
+    color: white ;
+    font-size:2.5rem;
+}
+.logintext{
+    margin-left: 25rem;
+}
+.color-me{
+    color: white !important;
+}
+.container-fluid{
+    padding: 3% 10%;
+}
+.text{
+    padding-left: 1.3rem;
+    padding-right: 1.5rem;
+    font-size:3.5rem;
+}
+.imgdiv{
+    padding:0%;
+}
+.abc{
+    padding-left: 2.5rem;
+    padding-right:2.5rem;
+}
+
+.xyz{
+    padding-left: 12%;
+    padding-top: 5%;
+    padding-bottom: 1%;
+}
+.texth1{
+    padding-top: 2%;
+    color:white !important;
+    font-size: 3.5rem;;
+}
+.ab{
+    padding: 5%;
+}
+.c{
+    padding-top: 22%;
+}
+.d{
+    padding-top: 24%;
+}
+.btncl{
+    font-size: 2.5rem;
+}
